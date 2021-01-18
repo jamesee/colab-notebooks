@@ -9,11 +9,16 @@ email: james.ee.sg@gmail.com
 ```bash
 .
 ├── README.md
+├── backup
+│   ├── task2-classification-workingcopy.ipynb
+│   ├── task2-regression-workingcopy.ipynb
+│   └── task2_random_forest.ipynb
 ├── data
-│   └── news_popularity.db
+│   └── news_popularity.db -> ../../news_popularity.db
 ├── eda_part1.ipynb
 ├── eda_part2.ipynb
 ├── images
+│   ├── AUC-ROC-Curve.png
 │   ├── pairplot1.png
 │   ├── pairplot2.png
 │   ├── pairplot3.png
@@ -27,10 +32,8 @@ email: james.ee.sg@gmail.com
     ├── myml.py
     ├── mymodels.py
     ├── mymodule.pyc
-    ├── myscript.py
     ├── mysql.py
     └── regression.py
-
 ```
 
 
