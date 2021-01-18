@@ -182,10 +182,11 @@ SupportVectorClassification          0.704129   0.716655  0.730925  0.723720  0.
 4. For our case, I assessed that a balanced Recall and Precision metrics (i.e. a appropriate high F1 score) will be good for our objective. We can see that the precision and recall metrics are quite close for all our models. This is because I have intentionally chosen a bin divider (in this case the 50 percentile) to avoid the large imbalance class issue.
 
 
-
-
-
+<br>
+Reference:
+<br>
 [test](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
+<br>
 [Classification Accuracy is Not Enough: More Performance Measures You Can Use -  by Jason Brownlee](https://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/#:~:text=F1%20Score,the%20precision%20and%20the%20recall)
 
 
