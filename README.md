@@ -150,13 +150,6 @@ LinearRegression                      0.642584  0.256758             0.600683
 
 1. Due to the time constraint, I was unable to perform such hyper-parameters tuning using the Scikit Learn GridSearchCV or the more recent Keras-tuner.  
 
-Reference:
-[link to Google!](http://google.com)
-[GitHub](http://github.com)
-https://machinelearningmastery.com/how-to-tune-algorithm-parameters-with-scikit-learn/
-![Classification Accuracy is Not Enough: More Performance Measures You Can Use](https://www.sicara.ai/blog/hyperparameter-tuning-keras-tuner)
-<br>
-
  
 ## 6.2. Classification Results
 ```bash
@@ -183,7 +176,7 @@ SupportVectorClassification          0.704129   0.716655  0.730925  0.723720  0.
 
 
 Reference:
-* [test](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
+* [Understanding AUC - ROC Curve - by Sarang Narkhede](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
 * [Classification Accuracy is Not Enough: More Performance Measures You Can Use -  by Jason Brownlee](https://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/#:~:text=F1%20Score,the%20precision%20and%20the%20recall)
 
 
